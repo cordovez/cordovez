@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cordovez
-- 👀 I’m interested in Data Analysis for Social Causes
-- 🌱 I’m currently learning Python for Data Analysis
+- 👀 I’m interested in the overlap between data and technology for the advancement of Social Causes
+- 🌱 I’m currently learning: Fullstack Web Development
 - 💞️ I’m looking to collaborate on Learning Projects
 - 📫 How to reach me by email: cordovez@el-cordovez.com
 
